@@ -125,11 +125,11 @@
 
 ## Статистика активности
 
-Дата получения информации: 24.12.2025
+Дата получения информации: 09.01.2026
 
 Сам ресурс: https://profile-summary-for-github.com/search
 
-<img width="1599" height="1182" alt="image" src="https://github.com/user-attachments/assets/6e8badc1-9af6-4cfb-a63f-b35aad51d3de" />
+<img width="1623" height="1165" alt="image" src="https://github.com/user-attachments/assets/882e5e32-8df6-4308-b721-99328054a86b" />
 
 
 ---
